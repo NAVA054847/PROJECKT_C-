@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "NAVA_CHAYA\\Entities\\MY_DBContext.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Entities\\MY_DBContext.cs",
               "RelativeToolTip": "NAVA_CHAYA\\Entities\\MY_DBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAyAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T09:36:27.484Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "NAVA_CHAYA\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T09:29:14.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:29:14.528Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "NAVA_CHAYA\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:12:20.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:12:20.253Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "NAVA_CHAYA\\Entities\\Persone.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwAgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:12:20.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:12:20.862Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "NAVA_CHAYA\\Controllers\\PersoneController.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAIwEIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:12:20.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:12:20.873Z"
             }
           ]
         }
