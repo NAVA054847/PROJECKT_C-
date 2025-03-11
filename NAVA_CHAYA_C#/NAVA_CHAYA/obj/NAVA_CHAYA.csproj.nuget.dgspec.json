@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj": {}
+    "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj": {
+    "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj",
         "projectName": "NAVA_CHAYA",
-        "projectPath": "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\NAVA_CHAYA.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\NAVA_CHAYA_C#\\NAVA_CHAYA\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\פרוייקטים\\פרוייקט C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,22 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

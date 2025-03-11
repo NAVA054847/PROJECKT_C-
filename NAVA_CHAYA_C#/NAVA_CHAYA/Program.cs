@@ -1,4 +1,5 @@
 using Microsoft.Extensions.Options;
+using NAVA_CHAYA.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options=>options.AddPolicy("MyPolicy", policy=>policy.AllowAnyOrigin().AllowAnyHeader()));
+
+builder .Services.AddDbContext<MY_DBContext>();
+
 
 var app = builder.Build();
 
