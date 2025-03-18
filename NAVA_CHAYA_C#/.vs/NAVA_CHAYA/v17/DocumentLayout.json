@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\entities\\my_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 c#\\projeckt_c-\\nava_chaya_c#\\nava_chaya\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 c#\\projeckt_c-\\nava_chaya_c#\\nava_chaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\entities\\persone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 c#\\projeckt_c-\\nava_chaya_c#\\nava_chaya\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 c#\\projeckt_c-\\nava_chaya_c#\\nava_chaya\\controllers\\personecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\controllers\\personecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 c#\\projeckt_c-\\nava_chaya_c#\\nava_chaya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E89E887-C928-4C07-8F78-DBC63399DBCB}|NAVA_CHAYA\\NAVA_CHAYA.csproj|solutionrelative:nava_chaya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\appsettings.json",
+              "RelativeDocumentMoniker": "NAVA_CHAYA\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\appsettings.json",
+              "RelativeToolTip": "NAVA_CHAYA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T08:55:01.236Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,26 +57,27 @@
               "RelativeDocumentMoniker": "NAVA_CHAYA\\Entities\\MY_DBContext.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Entities\\MY_DBContext.cs",
               "RelativeToolTip": "NAVA_CHAYA\\Entities\\MY_DBContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T09:36:27.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "NAVA_CHAYA\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Properties\\launchSettings.json",
               "RelativeToolTip": "NAVA_CHAYA\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T09:29:14.528Z"
+              "WhenOpened": "2025-03-05T09:29:14.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Program.cs",
               "RelativeDocumentMoniker": "NAVA_CHAYA\\Program.cs",
@@ -67,19 +85,21 @@
               "RelativeToolTip": "NAVA_CHAYA\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:12:20.253Z"
+              "WhenOpened": "2025-03-05T09:12:20.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Persone.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Entities\\Persone.cs",
               "RelativeDocumentMoniker": "NAVA_CHAYA\\Entities\\Persone.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Entities\\Persone.cs",
               "RelativeToolTip": "NAVA_CHAYA\\Entities\\Persone.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAgAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:12:20.862Z"
+              "WhenOpened": "2025-03-05T09:12:20.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,9 +109,10 @@
               "RelativeDocumentMoniker": "NAVA_CHAYA\\Controllers\\PersoneController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 C#\\PROJECKT_C-\\NAVA_CHAYA_C#\\NAVA_CHAYA\\Controllers\\PersoneController.cs",
               "RelativeToolTip": "NAVA_CHAYA\\Controllers\\PersoneController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwEIAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:12:20.873Z"
+              "WhenOpened": "2025-03-05T09:12:20.873Z",
+              "EditorCaption": ""
             }
           ]
         }
