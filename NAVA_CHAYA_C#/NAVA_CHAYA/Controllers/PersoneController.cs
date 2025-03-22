@@ -16,7 +16,7 @@ namespace NAVA_CHAYA.Controllers
         //    new Persone(232,"tsivya", 20, "s"),
         //};
 
-
+        
         private readonly MY_DBContext _context;
 
         public PersoneController()

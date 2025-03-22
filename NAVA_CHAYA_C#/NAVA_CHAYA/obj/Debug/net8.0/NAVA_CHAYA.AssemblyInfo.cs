@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NAVA_CHAYA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f970db8b2bc9ee65e0ccd085b2aa658ed48fbf3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d77251836eb69fedb134ddb591a585961fa820b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NAVA_CHAYA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NAVA_CHAYA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
